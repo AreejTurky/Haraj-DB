@@ -1,0 +1,1 @@
+SELECT * FROM ehaaraj.bid_on_item;
